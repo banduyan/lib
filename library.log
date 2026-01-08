@@ -63,3 +63,4 @@
 2026-01-07 04:18:01,620	ERROR	An error occurred: 该空间当前状态不可预约
 2026-01-07 22:28:39,107	INFO	该空间当前状态不可预约
 2026-01-07 22:28:39,107	ERROR	An error occurred: 该空间当前状态不可预约
+2026-01-08 21:53:36,386	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
