@@ -104,3 +104,4 @@
 2026-01-19 21:52:32,006	ERROR	An error occurred: 预约失败，最新一天的系统开始预约时间为：06:00
 2026-01-19 21:58:27,510	INFO	预约失败，最新一天的系统开始预约时间为：06:00
 2026-01-19 21:58:27,510	ERROR	An error occurred: 预约失败，最新一天的系统开始预约时间为：06:00
+2026-01-20 21:52:31,887	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
