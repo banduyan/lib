@@ -177,3 +177,8 @@ if __name__ == "__main__":
     except Exception as e:
         # 如果需要将异常信息记录在日志中，可以使用下面的代码
         logging.error(f"An error occurred: {str(e)}")
+
+
+
+print(response2.url)
+print(response2.text[:200])
