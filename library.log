@@ -227,3 +227,4 @@
 2026-07-06 22:49:33,653	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2026-07-07 22:46:02,843	INFO	存在黑名单用户，不可执行预约操作
 2026-07-07 22:46:02,843	ERROR	An error occurred: 存在黑名单用户，不可执行预约操作
+2026-07-08 22:48:19,402	ERROR	An error occurred: HTTPSConnectionPool(host='ca.csu.edu.cn', port=443): Max retries exceeded with url: /authserver/login?service=http%3A%2F%2Flibzw.csu.edu.cn%2Fcas%2Findex.php%3Fcallback%3Dhttp%253A%252F%252Flibzw.csu.edu.cn%252Fhome%252Fweb%252Ff_second (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff0f508b380>, 'Connection to ca.csu.edu.cn timed out. (connect timeout=None)'))
