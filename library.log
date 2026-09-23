@@ -322,3 +322,4 @@
 2026-09-19 23:37:05,860	ERROR	An error occurred: 'NoneType' object is not subscriptable
 2026-09-20 23:34:46,235	ERROR	An error occurred: 'NoneType' object is not subscriptable
 2026-09-22 00:20:49,563	ERROR	An error occurred: HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06c9929ac0>, 'Connection to libzw.csu.edu.cn timed out. (connect timeout=None)'))
+2026-09-23 00:09:24,732	ERROR	An error occurred: HTTPSConnectionPool(host='libzw.csu.edu.cn', port=443): Read timed out. (read timeout=None)
